@@ -44,7 +44,7 @@ It is designed to:
 
 2. Clone the repository:
 
-git clone https://github.com/<your_username>/Spectra.git
+git clone https://github.com/musabakif/Spectra.git
 cd Spectra
 
 
